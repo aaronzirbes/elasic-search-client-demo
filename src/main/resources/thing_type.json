@@ -1,0 +1,13 @@
+{
+    "thing" : {
+        "properties" : {
+            "key" : { "type" : "string", "index" : "not_analyzed" },
+            "name" : { "type" : "string" },
+            "email" : { "type" : "string" },
+            "city" : { "type" : "string" },
+            "state" : { "type" : "string" },
+            "location" : { "type" : "geo_point" }
+        }
+    }
+}
+
