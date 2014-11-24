@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper
 
 import groovy.transform.CompileStatic
 
+import org.elasticsearch.action.delete.DeleteResponse
 import org.elasticsearch.action.get.GetResponse
 import org.elasticsearch.action.index.IndexResponse
 import org.elasticsearch.client.Client
@@ -13,6 +14,9 @@ class SearchClient {
 
     ObjectMapper mapper = new ObjectMapper()
     Client client
+
+    final String INDEX_NAME = 'things'
+    final String DATA_TYPE = 'thing'
 
     void runTheThings() {
 
@@ -30,25 +34,32 @@ class SearchClient {
 
         String id = putThing(thing)
         println "Put thing: ${id}"
+
         Thing copyOfThing = getThing(thing.key)
         println "Got thing: ${copyOfThing.key}"
+
+        deleteThing thing.key
+        println "Deleted thing: ${thing.key}"
+
+        Thing missingThing = getThing(thing.key)
+        println "Got thing: ${missingThing?.key}"
 
         // on shutdown
         client.close()
     }
 
     void showResults(IndexResponse response) {
-        println " Index name ${response.index}"
-        println " Type name ${response.type}"
-        println " Document ID (generated or not) ${response.id}"
-        println " Version (if it's the first time you index this document, you will get: 1) ${response.version}"
+        println "    Index name ${response.index}"
+        println "    Type name ${response.type}"
+        println "    Document ID (generated or not) ${response.id}"
+        println "    Version (if it's the first time you index this document, you will get: 1) ${response.version}"
     }
 
     private String putThing(Thing thing) {
 
         String json = toJson(thing)
 
-        IndexResponse response = client.prepareIndex('things', 'thing', thing.key)
+        IndexResponse response = client.prepareIndex(INDEX_NAME, DATA_TYPE, thing.key)
                                        .setSource(json)
                                        .execute()
                                        .actionGet()
@@ -60,17 +71,24 @@ class SearchClient {
 
     private Thing getThing(String key) {
 
-        GetResponse response = client.prepareGet('things', 'thing', key)
+        GetResponse response = client.prepareGet(INDEX_NAME, DATA_TYPE, key)
                                      .execute()
                                      .actionGet()
 
-        String json = response.sourceAsString
+        if (response.exists) {
+            String json = response.sourceAsString
+            Thing thing = mapper.readValue(json, Thing)
+            println "Thing :: ${thing}"
+            return thing
+        }
+        return null
+    }
 
-        Thing thing = mapper.readValue(json, Thing)
 
-        println "Thing :: ${thing}"
-
-        return thing
+    private void deleteThing(String key) {
+        DeleteResponse response = client.prepareDelete(INDEX_NAME, DATA_TYPE, key)
+            .execute()
+            .actionGet()
     }
 
     private void createIndex() {
