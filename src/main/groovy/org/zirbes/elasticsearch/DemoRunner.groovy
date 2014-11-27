@@ -36,14 +36,16 @@ class DemoRunner {
 
     void run() {
 
-        String distance = '500mi'
-        Location location = new Location(44.9833, 93.2667)
+        Location minneapolis = new Location(44.9833, 93.2667)
+        Location humboltPark = new Location(41.902667, -87.702201)
+        Location wahpeton = new Location(46.275492, -96.589358)
 
         boolean worked = indexBuilder.createMapping(INDEX_NAME, DATA_TYPE)
         println "Created mapping?: ${worked}"
 
         List<Thing> things = DataLoader.loadThings()
 
+        /*
         things.each{ Thing thing ->
             String id = thingDao.putThing(thing)
             println "Put thing [${id}]: ${thing}"
@@ -53,9 +55,20 @@ class DemoRunner {
             Thing copyOfThing = thingDao.getThing(thing.key)
             println "Got thing: ${copyOfThing.key}"
         }
+        */
 
         List<Thing> foundThings = thingFinder.findThing('Minneapolis')
-        println "Found things: ${foundThings}"
+        println 'Found things:'
+        foundThings.each{ Thing thing ->
+            println " * ${thing}"
+        }
+
+        List<Thing> thingsNear = thingFinder.locationQuery(minneapolis, 300)
+        println 'Found close things:'
+        thingsNear.each{ Thing thing ->
+            println " * ${thing}"
+        }
+
 
         /*
         things.each{ Thing thing ->
@@ -68,6 +81,8 @@ class DemoRunner {
             println "Can we find thing: ${missingThing?.key}"
         }
         */
+
+        println 'done.'
 
         // on shutdown
         client.close()

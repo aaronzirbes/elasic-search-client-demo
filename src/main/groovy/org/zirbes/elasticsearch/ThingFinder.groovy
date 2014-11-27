@@ -2,19 +2,21 @@ package org.zirbes.elasticsearch
 
 import com.fasterxml.jackson.databind.ObjectMapper
 
-import com.spatial4j.core.shape.Shape
-
 import groovy.transform.CompileStatic
-
+import org.elasticsearch.action.search.SearchRequestBuilder
 import org.elasticsearch.action.search.SearchResponse
 import org.elasticsearch.client.Client
-import org.elasticsearch.common.geo.ShapeRelation
+import org.elasticsearch.common.unit.DistanceUnit
+import org.elasticsearch.index.query.FilterBuilder
 import org.elasticsearch.index.query.QueryBuilder
 import org.elasticsearch.search.SearchHit
 import org.elasticsearch.search.SearchHits
 
-import static org.elasticsearch.index.query.FilterBuilders.*
-import static org.elasticsearch.index.query.QueryBuilders.*
+import org.elasticsearch.index.query.FilterBuilders
+import org.elasticsearch.index.query.QueryBuilders
+import org.elasticsearch.search.sort.GeoDistanceSortBuilder
+import org.elasticsearch.search.sort.SortBuilder
+import org.elasticsearch.search.sort.SortOrder
 
 @CompileStatic
 class ThingFinder {
@@ -32,39 +34,55 @@ class ThingFinder {
 
     List<Thing> findThing(String query) {
 
-        // QueryBuilder builder = boolQuery().must(termQuery('city', query.toLowerCase()))
-
         // Lower case the search term
-        QueryBuilder builder = termQuery('city', query.toLowerCase())
-
+        QueryBuilder builder =  QueryBuilders.termQuery('city', query.toLowerCase())
         println "  SEARCH QUERY >> \n${builder}"
-        println ''
 
-        SearchResponse response = client.prepareSearch(INDEX_NAME)
-                                        .setTypes(DATA_TYPE)
-                                        .setQuery(builder)
-                                        .setExplain(true)
-                                        .setSize(10)
-                                        .execute()
-                                        .actionGet()
+        FilterBuilder filter = null
+        SortBuilder sort = null
+        return runQuery(10, builder, filter, sort)
+    }
+
+    List<Thing> locationQuery(Location location,
+                              double distance = 500,
+                              DistanceUnit units = DistanceUnit.MILES,
+                              int maxCount = 10) {
+
+        QueryBuilder query = QueryBuilders.matchAllQuery()
+
+
+        FilterBuilder filter =  FilterBuilders.geoDistanceFilter('location')
+                .distance(distance, units)
+                .lat(location.lat)
+                .lon(location.lon)
+
+        SortBuilder sort = new GeoDistanceSortBuilder('location')
+                .point(location.lat, location.lon)
+                .unit(units)
+                .order(SortOrder.ASC)
+
+        return runQuery(maxCount, query, filter, sort)
+    }
+
+    private List<Thing> runQuery(int maxCount, QueryBuilder queryBuilder, FilterBuilder filterBuilder, SortBuilder sortBuilder ) {
+        SearchRequestBuilder builder = client.prepareSearch(INDEX_NAME)
+                .setTypes(DATA_TYPE)
+                .setQuery(queryBuilder)
+                .setExplain(true)
+                .setSize(maxCount)
+
+        if (filterBuilder) { builder.setPostFilter(filterBuilder) }
+        if (sortBuilder) { builder.addSort(sortBuilder) }
+
+        SearchResponse response = builder.execute().actionGet()
 
         SearchHits hitContainer = response.hits
-        println "total hits: ${hitContainer.totalHits}"
-
+        Long hitCount =  hitContainer.totalHits
         List<SearchHit> hits = hitContainer.hits as List
 
         List<String> responses = hits.collect{ SearchHit hit -> hit.sourceAsString() }
 
         return responses.collect{ String it -> jsonHelper.fromJson(it) }
-    }
-
-    // Coordinates: Minnesota?
-    String locationQuery(Integer number) {
-        //return geoShapeQuery('location', number, 'states')
-
-        // Use filter ?
-        // GeoShapeFilterBuilder.geoShapeFilter(String name, ShapeBuilder shape, ShapeRelation.DISJOINT)
-        // .relation(ShapeRelation.DISJOINT)
     }
 
 }
