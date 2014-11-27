@@ -1,0 +1,1217 @@
+[01R]  31.22   92.95  Claiborne R,LA
+[01T]  28.13   94.40  High Island,LA
+[0E4]  34.23  111.33  Payson,AZ
+[0V1]  43.77  103.60  Custer,SD
+[0Z5]  22.38  159.67  Kilauea Pt,HI
+[18N]  41.30   72.08  New London,CT
+[1G7]  28.78   89.05  Missippi Can,LA
+[1K5]  37.00  101.88  Elkhart,KS
+[1O5]  41.73  122.53  Montague,CA
+[1V1]  39.53  107.80  Rifle,CO
+[1Y7]  32.85  114.40  Yuma Prv Gd,AZ
+[1Z2]  20.42  156.47  Upolo Pt Ln,HI
+[1Z6]  24.45  166.47  Fr Frigate,HI
+[27U]  45.18  113.90  Salmon,ID
+[2C2]  32.63  106.40  White Sands,NM
+[2DP]  36.13   76.50  Dare Co Gr,NC
+[2V9]  38.55  106.93  Gunnison,CO
+[30B]  41.78   70.50  Cape Cod Can,MA
+[30N]  41.22   72.67  New Haven,CT
+[3B1]  45.45   69.55  Greenville,ME
+[3DU]  46.67  113.15  Drummond,MT
+[3HT]  46.43  109.83  Harlowton,MT
+[3KM]  37.75   97.22  Col. J Jabar,KS
+[3OI]  40.62   93.93  Lamoni,IA
+[3S2]  45.25  122.75  Aurora,OR
+[3SE]  43.17   95.15  Spencer,IA
+[3TH]  47.60  115.37  Thompson Fal,MT
+[41I]  28.47   91.78  Eugene Is.,LA
+[43M]  39.73   77.43  Site R,PA
+[44W]  35.25   75.50  Diamond Sho,NC
+[4BK]  42.08  124.47  Brookings,OR
+[4BL]  38.03  109.78  Blanding,UT
+[4BQ]  45.67  105.67  Broadus,MT
+[4CR]  34.10  105.68  Corona,NM
+[4DG]  42.75  105.38  Douglas,WY
+[4HV]  38.37  110.72  Hanksville,UT
+[4LJ]  38.12  102.60  Lamar,CO
+[4LW]  42.18  120.35  Lake View,OR
+[4MC]  44.35  104.81  Moorcroft,WY
+[4MY]  34.98  106.05  Moriarity,NM
+[4OM]  48.42  119.53  Omak,WA
+[4SL]  36.02  106.95  Cuba Awrs,NM
+[4SU]  35.33  117.10  Superior Val,CA
+[51Q]  37.75  122.68  San Francisco,CA
+[53Q]  37.83  122.83  Pillaro Pt,CA
+[5BI]  60.82  152.30  Big River Lk,AK
+[5CE]  60.33  145.00  Cape St Eli,AK
+[5EA]  63.83  149.00  Healy River,AK
+[5GN]  61.90  147.30  Tahneta Pass,AK
+[5HN]  60.38  147.08  Cape Hinchi,AK
+[5HR]  61.98  152.08  Hayes River,AK
+[5I3]  37.48   82.52  Pikeville,KY
+[5PX]  63.03  145.50  Paxson,AK
+[5R0]  28.22   93.75  High Is,LA
+[5SO]  62.03  146.67  Snowshoe Lk,AK
+[5SZ]  62.73  143.92  Duffys Tavern,AK
+[5WD]  60.18  149.75  Seward,AK
+[5WO]  61.63  149.03  Lazy Mtn,AK
+[5WT]  60.78  148.72  Whittier,AK
+[63S]  48.88  118.47  Colville,WA
+[6B2]  45.78   69.63  Greenville,ME
+[6V1]  40.33  101.39  Imperial,NE
+[6V8]  38.50  107.88  Montrose,CO
+[75S]  48.50  122.33  Burlington,WA
+[76S]  48.25  122.68  Oak Harbor,WA
+[77M]  42.30  113.37  Malta,ID
+[7R3]  29.70   91.10  Lk Palourde,LA
+[7R4]  29.73   92.12  Intercoastal,LA
+[7R5]  29.78   93.30  Cameron Heli,LA
+[7R8]  28.30   91.98  S Marsh Isl,LA
+[87Q]  35.67  121.28  Pt Piedras,CA
+[8B8]  44.00   71.38  Wolfeboro,NH
+[90J]  29.12   81.57  Astor NAS,FL
+[92S]  43.38  124.95  Cape Blanco,OR
+[9B2]  44.42   72.02  St Johnsbury,VT
+[9V9]  43.80   99.32  Chamberlain,SD
+[ABE]  40.65   75.43  Allentown,PA
+[ABI]  32.42   99.68  Abilene,TX
+[ABQ]  35.05  106.60  Albuquerque,NM
+[ABR]  45.45   98.43  Aberdeen,SD
+[ABY]  31.53   84.18  Albany,GA
+[ACK]  41.25   70.07  Nantucket,MA
+[ACT]  31.62   97.22  Waco-Madison,TX
+[ACV]  40.98  124.10  Arcata,CA
+[ACY]  39.45   74.57  Atlantic Cty,NJ
+[ADK]  51.88  176.65  Adak,AK
+[ADM]  34.30   97.02  Ardmore,OK
+[ADQ]  57.75  152.50  Kodiak,AK
+[ADS]  32.97   96.83  Dallas/Addis,TX
+[ADW]  38.82   76.87  Andrews AFB,MD
+[AEL]  43.68   93.37  Albert Lea,MN
+[AEX]  31.33   92.55  England AFB,LA
+[AFF]  39.52  105.35  Air Force A,CO
+[AFN]  42.80   72.00  Jaffrey,NH
+[AGC]  40.35   79.93  Pittsburgh,PA
+[AGN]  57.83  134.97  Angoon,AK
+[AGR]  28.08   81.55  Avon Park G,FL
+[AGS]  33.37   81.97  Augusta/Bush,GA
+[AHN]  33.95   83.32  Athens,GA
+[AIA]  42.05  102.80  Alliance,NE
+[AIN]  70.62  159.85  Wainwright,AK
+[AKN]  58.68  156.65  King Salmon,AK
+[AKO]  40.17  103.22  Akron,CO
+[ALB]  42.75   73.80  Albany,NY
+[ALI]  27.73   98.03  Alice,TX
+[ALN]  38.88   90.05  Alton,IL
+[ALO]  42.55   92.40  Waterloo Mun,IA
+[ALS]  37.45  105.87  Alamosa,CO
+[ALW]  46.10  118.28  Walla Walla,WA
+[AMA]  35.23  101.70  Amarillo,TX
+[AMG]  31.53   82.52  Alma,GA
+[ANB]  33.58   85.85  Anniston,AL
+[ANC]  61.17  150.02  Anchorage,AK
+[AND]  34.50   82.72  Anderson,SC
+[ANI]  61.58  159.53  Aniak,AK
+[ANN]  55.03  131.57  Annette Isl,AK
+[ANW]  42.58   99.98  Ainsworth,NE
+[AOO]  40.30   78.32  Altoona,PA
+[APA]  39.57  104.83  Englewood,CO
+[APC]  38.22  122.28  Napa,CA
+[APF]  26.13   81.80  Naples,FL
+[APG]  39.47   76.17  Phillips,MD
+[APN]  45.07   83.57  Alpena,MI
+[AQQ]  29.73   85.03  Apalachicola,FL
+[ARA]  30.03   91.88  New Iberia,LA
+[ARB]  42.22   83.75  Ann Arbor,MI
+[ARG]  36.13   90.93  Walnut Ridge,AR
+[ARR]  41.77   88.32  Aurora,IL
+[ART]  44.00   76.02  Watertown,NY
+[ASE]  39.22  106.87  Aspen,CO
+[ASG]  36.18   94.13  Springdale,AR
+[ASH]  42.78   71.52  Nashua,NH
+[AST]  46.15  123.88  Astoria,OR
+[ATL]  33.65   84.42  Atlanta,GA
+[ATL]  33.65   84.42  Atlanta,GA
+[ATU]  53.50  173.30  Attu,AK
+[ATW]  44.25   88.52  Appleton,WI
+[ATY]  44.92   97.15  Watertown,SD
+[AUG]  44.32   69.80  Augusta,ME
+[AUI]  39.83  117.13  Austin,NV
+[AUO]  32.67   85.44  Auburn,AL
+[AUS]  30.30   97.70  Austin,TX
+[AUW]  44.92   89.62  Wausau,WI
+[AVL]  35.43   82.55  Asheville,NC
+[AVP]  41.33   75.73  Wilkes-Barre,PA
+[AWH]  41.33  116.25  Wildhorse,NV
+[AXN]  45.87   95.38  Alexandria,MN
+[AXO]  29.18   90.07  Grand Isle,LA
+[AYE]  42.57   71.60  Fort Devens,MA
+[AYS]  31.25   82.40  Waycross,GA
+[AZO]  42.23   85.55  Kalamazoo,MI
+[BAB]  39.13  121.45  Beale AFB,CA
+[BAD]  32.50   93.67  Barksdale,LA
+[BAF]  42.17   72.72  Westfield,MA
+[BAK]  39.38   86.50  Bakalar Af,IN
+[BAL]  39.18   76.67  Baltimore,MD
+[BAM]  40.62  116.87  Battle Mtn,NV
+[BBW]  41.43   99.65  Broken Bow,NE
+[BDF]  41.16   89.60  Bradford,IL
+[BDL]  41.93   72.68  Windsor Loc,CT
+[BDR]  41.17   73.13  Bridgeport,CT
+[BED]  42.47   71.28  Bedford,MA
+[BEH]  42.13   86.43  Benton Harbor,MI
+[BET]  60.78  161.80  Bethel Arpt,AK
+[BFD]  41.80   78.63  Bradford,PA
+[BFF]  41.87  103.60  Scottsbluff,NE
+[BFI]  47.53  122.30  Seattle/Boeing,WA
+[BFL]  35.43  119.05  Bakersfield,CA
+[BFM]  30.63   88.07  Mobile Aeros,AL
+[BGM]  42.22   75.98  Binghamton,NY
+[BGR]  44.80   68.82  Bangor,ME
+[BGS]  32.39  101.48  Big Sky,TX
+[BHB]  44.45   68.37  Bar Harbor,ME
+[BHM]  33.57   86.75  Birmingham,AL
+[BID]  41.17   71.58  Block Island,RI
+[BIE]  40.32   96.75  Beatrice,NE
+[BIG]  64.00  145.73  Big Delta,AK
+[BIH]  37.60  118.60  Bishop,CA
+[BIL]  45.80  108.53  Billings,MT
+[BIS]  46.77  100.75  Bismarck,ND
+[BIX]  30.42   88.92  Keesler AFB,MS
+[BJC]  39.90  105.12  Brmfield/Jef,CO
+[BJI]  47.50   94.93  Bemidji Muni,MN
+[BKE]  44.83  117.82  Baker,OR
+[BKF]  39.72  104.75  Buckley,CO
+[BKH]  22.05  160.30  Barking San,HI
+[BKL]  41.52   81.68  Cleveland,OH
+[BKW]  37.78   81.12  Beckley,WV
+[BKX]  44.30   96.80  Brookings,SD
+[BLF]  37.30   81.22  Bluefield,WV
+[BLH]  33.62  114.72  Blythe,CA
+[BLI]  48.80  122.53  Bellingham,WA
+[BLU]  39.28  120.70  Blue Canyon,CA
+[BLV]  38.55   89.85  Scott AFB,IL
+[BMG]  39.13   86.62  Bloomington,IN
+[BMI]  40.48   88.93  Bloomington,IL
+[BML]  44.58   71.18  Berlin,NH
+[BNA]  36.12   86.68  Nashville,TN
+[BNO]  43.60  118.95  Burns Arpt,OR
+[BOI]  43.57  116.22  Boise,ID
+[BOS]  42.37   71.03  Boston,MA
+[BPI]  42.57  110.10  Big Piney,WY
+[BPT]  30.58   94.02  Port Arthur,TX
+[BRD]  46.40   94.13  Brainerd-Crw,MN
+[BRL]  40.78   91.12  Burlington,IA
+[BRO]  25.90   97.43  Brownsville,TX
+[BRW]  71.30  156.78  Barrow,AK
+[BSI]  40.27   79.09  Blairsville,PA
+[BSM]  30.20   97.68  Bergstrom Af,TX
+[BTI]  70.13  143.63  Barter Islan,AK
+[BTL]  42.30   85.23  Battle Creek,MI
+[BTM]  45.95  112.50  Butte,MT
+[BTR]  30.53   91.15  Baton Rouge,LA
+[BTT]  66.92  151.52  Bettles,AK
+[BTV]  44.47   73.15  Burlington,VT
+[BUB]  41.78   99.15  Burwell,NE
+[BUF]  42.93   78.73  Buffalo,NY
+[BUO]  33.93  116.95  Beaumont,CA
+[BUR]  34.20  118.37  Burbank,CA
+[BVE]  29.55   89.67  Boothville,LA
+[BVI]  40.75   80.33  Beaver Falls,PA
+[BVO]  36.75   96.00  Bartlesville,OK
+[BVY]  42.58   70.92  Beverly,MA
+[BWD]  31.79   98.96  Brownwood,TX
+[BWG]  36.97   86.43  Bowling Gren,KY
+[BWI]  39.18   76.67  Baltimore,MD
+[BYH]  35.97   89.95  Blytheville,AR
+[BYI]  42.53  113.77  Burley,ID
+[BYS]  35.28  116.62  Bicycle Lk,CA
+[BZN]  45.78  111.15  Bozeman,MT
+[C10]  43.07   85.95  Coopersville,MI
+[C96]  40.00  105.87  Winter Park,CO
+[CAE]  33.95   81.12  Columbia,SC
+[CAG]  40.50  107.53  Craig-Moffat,CO
+[CAK]  40.92   81.43  Canton,OH
+[CAO]  36.45  103.15  Clayton Arpt,NM
+[CAR]  46.87   68.02  Caribou Mun,ME
+[CBM]  33.65   88.45  Columbus AFB,MS
+[CCR]  37.98  122.05  Concord,CA
+[CDB]  55.20  162.72  Cold Bay,AK
+[CDC]  37.70  113.10  Cedar City,UT
+[CDE]  56.00  134.22  Cape Decis,AK
+[CDH]  33.52   92.40  Camden,AR
+[CDR]  42.83  103.08  Chadron,NE
+[CDS]  34.43  100.28  Childress,TX
+[CDV]  60.50  145.50  Cordova,AK
+[CDW]  40.87   74.28  Fairfield,NJ
+[CEC]  41.78  124.23  Crescent Cty,CA
+[CEF]  42.20   72.53  Westover,MA
+[CEW]  30.78   86.52  Crestview,FL
+[CEZ]  37.30  108.63  Cortez,CO
+[CGA]  55.80  133.25  Craig,AK
+[CGF]  41.57   81.48  Cleveland,OH
+[CGI]  37.23   89.58  Cp Girardeau,MO
+[CGX]  41.87   87.62  Chicago/Meigs,IL
+[CHA]  35.03   85.20  Chattanooga,TN
+[CHB]  43.75   99.32  Chamberlain,SD
+[CHD]  33.30  111.67  Williams AFB,AZ
+[CHH]  41.67   69.97  Chatham,MA
+[CHI]  41.90   87.65  Chicago,IL
+[CHO]  38.13   78.45  Charlottesvi,VA
+[CHS]  32.90   80.03  Charleston,SC
+[CIC]  39.78  121.85  Chico,CA
+[CID]  41.88   91.70  Cedar Rapids,IA
+[CIU]  46.25   84.47  Chippewa,MI
+[CKB]  39.28   80.23  Clarksburg,WV
+[CKL]  32.90   87.25  Centreville,AL
+[CKV]  36.62   87.42  Clarksville,TN
+[CLE]  41.42   81.87  Cleveland,OH
+[CLL]  30.58   96.37  College Stn,TX
+[CLM]  48.12  123.50  Port Angeles,WA
+[CLT]  35.22   80.93  Charlotte,NC
+[CMH]  40.00   82.88  Columbus,OH
+[CMI]  40.03   88.28  Champaign/Urbana,IL
+[CMX]  47.17   88.50  Hancock,MI
+[CNK]  39.55   97.65  Concordia,KS
+[CNM]  32.33  104.27  Carlsbad,NM
+[CNO]  33.97  117.63  Chino,CA
+[CNU]  37.67   95.48  Chanute,KS
+[CNY]  38.77  109.75  Moab,UT
+[COD]  44.52  109.02  Cody,WY
+[COE]  47.77  116.82  Coeur d'Alene,ID
+[COF]  28.23   80.60  Patrick AFB,FL
+[CON]  43.20   71.50  Concord,NH
+[COS]  38.82  104.72  Colo Sprgs,CO
+[COT]  28.45   99.22  Cotulla,TX
+[COU]  38.82   92.22  Columbia,MO
+[CPR]  42.92  106.47  Casper,WY
+[CPS]  38.57   90.15  Bistate Park,IL
+[CRC]  65.83  144.07  Circle City,AK
+[CRE]  33.82   78.72  Nth Myrtle B,SC
+[CRG]  30.33   81.52  Jacksonville,FL
+[CRP]  27.77   97.50  Corpus Chrst,TX
+[CRQ]  33.13  117.28  Carlsbad,CA
+[CRW]  38.37   81.60  Charleston,WV
+[CSG]  32.52   84.93  Columbus,GA
+[CSM]  35.35   99.20  Clinton,OK
+[CSP]  58.33  137.05  Cape Spence,AK
+[CSV]  35.95   85.08  Crossville,TN
+[CTB]  48.60  112.37  Cut Bank,MT
+[CTR]  37.07   89.22  Cairo,IL
+[CTY]  29.62   83.10  Cross City,FL
+[CVG]  39.05   84.67  Cincinnati,OH
+[CVO]  44.50  123.28  Corvallis,OR
+[CVS]  34.38  103.32  Cannon,NM
+[CWA]  44.78   89.67  Mosinee,WI
+[CXY]  40.22   76.85  Harrisburg,PA
+[CYS]  41.15  104.82  Cheyenne,WY
+[CZD]  40.87  100.00  Cozad,NE
+[CZK]  45.68  121.88  Cascade,OR
+[CZZ]  32.62  116.47  Campo,CA
+[D45]  48.93   95.35  Warroad,MN
+[DAA]  38.72   77.18  Fort Belvoir,VA
+[DAB]  29.18   81.05  Daytona Bch,FL
+[DAG]  34.87  116.78  Daggett,CA
+[DAL]  32.85   96.85  Dallas/Love,TX
+[DAN]  36.57   79.33  Danville,VA
+[DAY]  39.90   84.20  Dayton,OH
+[DBQ]  42.40   90.70  Dubuque,IA
+[DCA]  38.85   77.04  Washington/Natl,DC
+[DDC]  37.77   99.97  Dodge City,KS
+[DEC]  39.83   88.87  Decatur,IL
+[DEN]  39.75  104.87  Denver,CO
+[DET]  42.42   83.02  Detroit,MI
+[DFW]  32.90   97.03  Dallas/FW,TX
+[DHN]  31.32   85.45  Dothan,AL
+[DHT]  36.02  102.55  Dalhart,TX
+[DIK]  46.78  102.80  Dickenson,ND
+[DKB]  41.93   88.72  DeKalb,IL
+[DLF]  29.37  100.78  Laughlin AFB,TX
+[DLG]  59.05  158.52  Dillingham,AK
+[DLH]  46.83   92.18  Duluth,MN
+[DLN]  45.25  112.55  Dillon,MT
+[DLS]  45.62  121.15  The Dalles,OR
+[DMA]  32.17  110.88  Davis-M AFB,AZ
+[DMN]  32.25  107.70  Deming,NM
+[DNV]  40.20   87.60  Danville,IL
+[DOV]  39.13   75.47  Dover,DE
+[DPA]  41.92   88.25  Du Page,IL
+[DPG]  40.20  112.93  Dugway Prvgr,UT
+[DRA]  36.62  116.02  Mercury,NV
+[DRO]  37.15  107.75  Durango,CO
+[DRT]  29.37  100.92  Del Rio,TX
+[DSM]  41.53   93.65  Des Moines,IA
+[DSV]  42.97   78.20  Dansville,NY
+[DTL]  46.82   95.88  Detroit Laks,MN
+[DTN]  32.52   93.75  Shreveport,LA
+[DTW]  42.23   83.33  Detroit,MI
+[DUG]  31.45  109.60  Douglas,AZ
+[DUJ]  41.18   78.90  Dubois,PA
+[DUT]  53.88  166.53  Dutch Harbor,AK
+[DVL]  48.12   98.90  Devil's Lake,ND
+[DVT]  33.68  112.08  Deer Valley,AZ
+[DWH]  30.07   95.55  D.w. Hooks,TX
+[DXR]  41.37   73.48  Danbury,CT
+[DYR]  36.02   89.40  Dyersburg,TN
+[DYS]  32.43   99.85  Dyess AFB,TX
+[E03]  34.27  110.00  Show Low,AZ
+[E23]  36.42  105.57  Taos,NM
+[E28]  32.90  106.40  Northrup Str,NM
+[E74]  32.82  109.68  Safford Awrs,AZ
+[EAA]  64.77  141.15  Eagle Arpt,AK
+[EAR]  40.73   99.00  Kearney,NE
+[EAT]  47.40  120.20  Wenatchee,WA
+[EAU]  44.87   91.48  Eau Claire,WI
+[ECG]  36.27   76.18  Elizabeth,NC
+[EDW]  34.90  117.88  Edwards AFB,CA
+[EED]  34.77  114.62  Needles,CA
+[EEN]  42.90   72.27  Keene,NH
+[EEW]  44.22   88.53  Neenah,WI
+[EFD]  29.62   95.17  Ellington Af,TX
+[EFK]  45.55   72.33  Newport,VT
+[EGE]  39.65  106.92  Eagle,CO
+[EGI]  30.65   86.52  Duke Fld,FL
+[EKA]  41.33  124.28  Eureka,CA
+[EKM]  41.72   86.00  Elkhart,IN
+[EKN]  38.88   79.85  Elkins,WV
+[EKO]  40.83  115.78  Elko,NV
+[ELD]  33.22   92.80  El Dorado,AR
+[ELM]  42.17   76.90  Elmira,NY
+[ELO]  47.90   91.82  Ely,MN
+[ELP]  31.80  106.40  El Paso,TX
+[ELV]  58.20  136.35  Elfin Cove,AK
+[ELY]  39.28  114.85  Ely/Yelland,NV
+[EMP]  38.33   96.20  Emporia,KS
+[EMT]  34.08  118.03  El Monte,CA
+[ENA]  60.57  151.25  Kenai,AK
+[END]  36.33   97.92  Vance AFB,OK
+[ENL]  38.51   89.09  Centralia,IL
+[ENN]  64.55  149.08  Nenana,AK
+[ENV]  41.22  114.05  Wendover,UT
+[EPH]  47.32  119.52  Ephrata,WA
+[ERI]  42.08   80.18  Erie,PA
+[ERO]  59.62  135.37  Eldred Rock,AK
+[ERV]  29.98   99.08  Kerrville,TX
+[ESC]  45.73   87.08  Escanaba,MI
+[ESF]  31.38   92.30  Alexandria,LA
+[EST]  43.40   94.75  Estherville,IA
+[EUG]  44.12  123.22  Eugene,OR
+[EVV]  38.05   87.53  Evansville,IN
+[EVW]  41.33  111.00  Evanston,WY
+[EWB]  41.68   70.97  New Bedford,MA
+[EWN]  35.08   77.05  New Bern,NC
+[EWR]  40.70   74.17  Newark Intl,NJ
+[EYW]  24.55   81.75  Key West,FL
+[F39]  33.72   96.67  Sherman-Deni,TX
+[FAF]  37.13   76.62  Fort Eustis,VA
+[FAI]  64.82  147.87  Fairbanks,AK
+[FAR]  46.90   96.80  Fargo,ND
+[FAT]  36.77  119.72  Fresno,CA
+[FAY]  35.00   78.88  Fayetteville,NC
+[FBG]  35.13   78.93  Fort Bragg,NC
+[FCA]  48.30  114.27  Kalispell,MT
+[FCL]  40.58  105.08  Ft Collins,CO
+[FCM]  44.83   93.47  Minneapolis,MN
+[FCS]  38.68  104.77  Fort Carson,CO
+[FDY]  41.02   83.67  Findlay,OH
+[FFM]  46.30   96.07  Fergus Falls,MN
+[FFO]  39.83   84.05  Wright-Pat AFB,OH
+[FFZ]  33.47  111.73  Falcon Fld,AZ
+[FHU]  31.60  110.35  Fort Huachuc,AZ
+[FIV]  57.45  134.03  Five Finger,AK
+[FKL]  41.38   79.87  Franklin,PA
+[FLG]  35.13  111.67  Flagstaff,AZ
+[FLL]  26.07   80.15  Ft Lauderdale,FL
+[FLO]  34.18   79.72  Florence,SC
+[FLV]  39.37   94.92  Ft Leavnwrth,KS
+[FME]  39.08   76.77  Fort Meade,MD
+[FMH]  41.65   70.52  Otis ANGB,MA
+[FMN]  36.75  108.23  Farmington,NM
+[FMY]  26.58   81.87  Fort Myers,FL
+[FNB]  40.07   95.58  Falls City,NE
+[FNL]  40.45  105.02  Ft Col/Lovel,CO
+[FNR]  58.25  134.90  Funter Bay,AK
+[FNT]  42.97   83.75  Flint/Bishop,MI
+[FOD]  42.55   94.18  Fort Dodge,IA
+[FOE]  38.95   95.67  Topeka/Forbe,KS
+[FOK]  40.85   72.63  Westhampton,NY
+[FRG]  40.73   73.43  Farmingdale,NY
+[FRI]  39.05   96.77  Ft Riley,KS
+[FRM]  43.65   94.42  Fairmont,MN
+[FSD]  43.58   96.73  Sioux Falls,SD
+[FSI]  34.65   98.40  Fort Sill,OK
+[FSM]  35.33   94.37  Ft Smith,AR
+[FSR]  39.57  105.50  Fraser,CO
+[FTK]  37.90   85.97  Ft Knox,KY
+[FTW]  32.82   97.35  Fort Worth,TX
+[FTY]  33.78   84.52  Atlanta/Fltn,GA
+[FUL]  33.87  117.97  Fullerton,CA
+[FVM]  65.93  149.83  Five Mile,AK
+[FWA]  41.00   85.20  Fort Wayne,IN
+[FWH]  32.78   97.43  Carswell AFB,TX
+[FWL]  62.85  154.47  Farewell,AK
+[FXE]  26.13   80.13  Fort Lauderd,FL
+[FYU]  66.57  145.27  Fort Yukon,AK
+[FYV]  36.00   94.17  Fayetteville,AR
+[GAD]  33.97   86.09  Gadsden,AL
+[GAG]  36.30   99.77  Gage,OK
+[GAM]  63.77  171.73  Gambell,AK
+[GBG]  40.93   90.43  Galesburg,IL
+[GBH]  68.48  149.48  Galbraith Lk,AK
+[GBN]  33.55  113.17  Gila Bend,AZ
+[GCC]  44.35  105.53  Gillette,WY
+[GCK]  37.93  100.72  Garden City,KS
+[GCN]  35.95  112.15  Grand Canyon,AZ
+[GDP]  31.83  104.80  Guadalupe Ps,TX
+[GDV]  47.13  104.80  Glendive,MT
+[GEG]  47.63  117.53  Spokane,WA
+[GFA]  47.50  111.18  Malmstrom,MT
+[GFK]  47.95   97.18  Grand Forks,ND
+[GFL]  43.35   73.62  Glens Falls,NY
+[GGG]  32.38   94.72  Longview,TX
+[GGW]  48.22  106.62  Glasgow,MT
+[GJT]  39.12  108.53  Grand Jct,CO
+[GKN]  62.15  145.45  Gulkana Arpt,AK
+[GLD]  39.37  101.70  Goodland,KS
+[GLH]  33.48   90.98  Greenville,MS
+[GLS]  29.27   94.87  Galveston,TX
+[GMU]  34.85   82.35  Greenville,SC
+[GNG]  43.00  115.17  Gooding,ID
+[GNT]  35.17  107.90  Grants,NM
+[GNV]  29.68   82.27  Gainesville,FL
+[GON]  41.33   72.05  Groton,CT
+[GPT]  30.40   89.07  Gulfport,MS
+[GPZ]  47.22   93.52  Grand Rapids,MN
+[GRB]  44.48   88.13  Green Bay,WI
+[GRF]  47.08  122.58  Fort Lewis,WA
+[GRI]  40.97   98.32  Grand Island,NE
+[GRK]  31.07   97.83  Gray AFB,TX
+[GRR]  42.88   85.52  Grand Rapids,MI
+[GSB]  35.33   77.97  Seymour-John,NC
+[GSO]  36.08   79.95  Greensboro,NC
+[GSP]  34.90   82.22  Greenville,SC
+[GST]  58.42  135.73  Gustavus,AK
+[GTB]  44.05   75.73  Fort Drum,NY
+[GTF]  47.48  111.37  Great Falls,MT
+[GTR]  33.45   88.58  Golden Trian,MS
+[GUC]  38.55  106.92  Gunnison,CO
+[GUP]  35.52  108.78  Gallup/Clark,NM
+[GUS]  40.65   86.15  Grissom AFB,IN
+[GVT]  33.07   96.07  Greenville,TX
+[GVW]  38.85   94.55  Richards-Geb,MO
+[GWO]  33.50   90.08  Greenwood,MS
+[GXY]  40.43  104.63  Greeley-Wld,CO
+[GYR]  33.42  112.38  Goodyear,AZ
+[GYY]  41.62   87.42  Gary,IN
+[H63]  37.22   92.42  West Plains,MO
+[HAR]  40.37   77.42  Harrisburg,PA
+[HAT]  35.27   75.55  Cape Hattera,NC
+[HBR]  35.00   99.05  Hobart,OK
+[HCA]  32.30  101.45  Big Spring,TX
+[HDO]  29.35   99.17  Hondo,TX
+[HEZ]  31.62   91.25  Natchez,MS
+[HFD]  41.73   72.65  Hartford,CT
+[HFF]  35.03   79.50  Mackall Aaf,NC
+[HGR]  39.70   77.72  Hagerstown,MD
+[HGT]  36.00  121.32  Fort Hunter,CA
+[HHR]  33.92  118.33  Hawthorne,CA
+[HIB]  47.38   92.85  Hibbing,MN
+[HIF]  41.12  111.97  Hill AFB,UT
+[HIO]  45.53  122.95  Hillsboro,OR
+[HKY]  35.75   81.38  Hickory,NC
+[HLC]  39.38   99.83  Hill City,KS
+[HLG]  40.18   80.65  Wheeling,WV
+[HLN]  46.60  112.00  Helena,MT
+[HLR]  31.15   97.72  Ft Hood Aaf,TX
+[HMN]  32.85  106.10  Holloman AFB,NM
+[HMS]  46.57  119.60  Hanford,WA
+[HNA]  21.53  158.12  Barbers Pt,HI
+[HNA]  21.53  158.12  Barbers Pt,HI
+[HNG]  21.75  158.28  Kaneohe Mca,HI
+[HNG]  21.75  158.28  Kaneohe Mca,HI
+[HNL]  21.35  157.93  Honolulu Int,HI
+[HOB]  32.68  103.20  Hobbs,NM
+[HOM]  59.63  151.50  Homer,AK
+[HON]  44.38   98.22  Huron,SD
+[HOP]  36.67   87.50  Ft Campbell,KY
+[HOT]  34.48   93.10  Hot Springs,AR
+[HOU]  29.65   95.28  Houston/Hobby,TX
+[HPN]  41.07   73.72  White Plains,NY
+[HQM]  46.97  123.97  Hoquiam,WA
+[HRL]  26.23   97.67  Harlingen,TX
+[HRO]  36.27   93.15  Harrison,AR
+[HRT]  30.43   86.68  Hurlburt Fld,FL
+[HSI]  40.60   98.43  Hastings,NE
+[HSP]  37.95   79.82  Hot Springs,VA
+[HSS]  35.90   82.82  Hot Springs,NC
+[HST]  25.48   80.38  Homestead,FL
+[HSV]  34.65   86.77  Huntsville,AL
+[HTH]  38.55  118.63  Hawthorne,NV
+[HTL]  44.37   84.68  Houghton Lake,MI
+[HTS]  38.37   82.55  Huntington,WV
+[HUF]  39.45   87.30  Terre Haute,IN
+[HUL]  46.13   67.78  Houlton,ME
+[HUM]  29.57   90.65  Houma,LA
+[HUT]  38.07   97.87  Hutchinson,KS
+[HVN]  41.27   72.88  New Haven,CT
+[HVR]  48.55  109.77  Havre,MT
+[HWD]  37.65  122.12  Hayward,CA
+[HYA]  41.67   70.28  Hyannis,MA
+[HYS]  38.85   99.27  Hays,KS
+[IAB]  37.62   97.27  Mcconnell Af,KS
+[IAD]  38.95   77.46  Washington/Dulles,DC
+[IAG]  43.10   78.95  Niagara Fall,NY
+[IAH]  29.97   95.35  Houston,TX
+[ICT]  37.65   97.43  Wichita,KS
+[IDA]  43.52  112.07  Idaho Falls,ID
+[IGM]  35.27  113.95  Kingman,AZ
+[IKK]  41.07   87.85  Kankakee,IL
+[IKO]  53.58  169.42  Nikolski,AK
+[ILE]  31.08   97.68  Killeen,TX
+[ILG]  39.67   75.60  Wilmington,DE
+[ILI]  59.75  154.92  Iliamna Arpt,AK
+[ILM]  34.27   77.92  Wilmington,NC
+[IML]  40.53  101.63  Imperial,NE
+[IMT]  45.82   88.12  Iron Mtn,MI
+[IND]  39.73   86.27  Indianapolis,IN
+[INK]  31.78  103.20  Wink,TX
+[INL]  48.57   93.38  Intl Falls,MN
+[INT]  36.13   80.23  Winston-Salem,NC
+[INW]  35.02  110.73  Winslow,AZ
+[IPL]  32.83  115.57  Imperial,CA
+[IPT]  41.25   76.92  Williamsport,PA
+[IRK]  40.10   92.55  Kirksville,MO
+[ISN]  48.18  103.63  Williston,ND
+[ISO]  35.32   77.63  Kinston,NC
+[ISP]  40.78   73.10  Islip,NY
+[ITH]  42.48   76.47  Ithaca,NY
+[ITO]  19.72  155.07  Hilo,HI
+[IWD]  46.53   90.13  Ironwood,MI
+[IXD]  38.82   94.88  Johnson Cnty,KS
+[JAC]  43.60  110.73  Jackson,WY
+[JAN]  32.32   90.08  Jackson,MS
+[JAX]  30.50   81.70  Jacksonville,FL
+[JBR]  35.83   90.65  Jonesboro,AR
+[JCT]  30.50   99.77  Junction,TX
+[JDN]  47.33  106.93  Jordan,MT
+[JEF]  38.60   92.17  Jefferson City,MO
+[JFK]  40.65   73.78  New York/JFK,NY
+[JHM]  20.97  156.83  Maui,HI
+[JHW]  42.15   79.25  Jamestown,NY
+[JKL]  37.60   83.32  Jackson,KY
+[JLN]  37.17   94.50  Joplin,MO
+[JMS]  46.92   98.68  Jamestown,ND
+[JNU]  58.37  134.58  Juneau,AK
+[JST]  40.32   78.83  Johnstown,PA
+[JVL]  42.62   89.03  Janesville,WI
+[JXN]  42.27   84.47  Jackson,MI
+[KAE]  56.97  133.95  Kake Seaplan,AK
+[KOA]  19.75  156.05  Ke-Ahole/Kon,HI
+[KPC]  65.25  166.87  Port Clarnce,AK
+[KSM]  62.07  163.30  New Andreafs,AK
+[KTN]  55.35  131.70  Ketchikan,AK
+[L10]  33.42  117.62  San Clemente,CA
+[L35]  34.27  116.68  Big Bear Apt,CA
+[L63]  36.53  115.57  Ind Sprng Rn,NV
+[L76]  36.57  115.67  Ind Sprng Rn,NV
+[L98]  33.38  117.58  San Mateo,CA
+[LAF]  40.42   86.93  W Lafayette,IN
+[LAL]  28.03   81.95  Lakeland,FL
+[LAM]  35.88  106.28  Los Alamos,NM
+[LAN]  42.77   84.60  Lansing,MI
+[LAR]  41.32  105.68  Laramie,WY
+[LAS]  36.08  115.17  Las Vegas,NV
+[LAW]  34.57   98.42  Lawton,OK
+[LAX]  33.93  118.40  Los Angeles,CA
+[LBB]  33.65  101.82  Lubbock,TX
+[LBE]  40.28   79.40  Latrobe,PA
+[LBF]  41.13  100.68  North Platte,NE
+[LBL]  37.05  100.97  Liberal,KS
+[LCH]  30.12   93.22  Lake Charles,LA
+[LCI]  43.57   71.43  Laconia,NH
+[LCK]  39.82   82.93  Rickenbacker,OH
+[LEB]  43.63   72.30  Lebanon,NH
+[LEX]  38.05   85.00  Lexington,KY
+[LFI]  37.08   76.37  Langley AFB,VA
+[LFK]  31.23   94.75  Lufkin,TX
+[LFT]  30.20   92.00  Lafayette,LA
+[LGA]  40.77   73.90  New York/LGA,NY
+[LGB]  33.82  118.15  Long Beach,CA
+[LGC]  33.01   85.07  La Grange,GA
+[LGD]  45.28  118.00  La Grande,OR
+[LGU]  41.78  111.85  Logan,UT
+[LHW]  31.88   81.57  Ft Stewart,GA
+[LHX]  38.05  103.52  La Junta,CO
+[LIC]  39.18  103.70  Limon,CO
+[LIH]  21.98  159.35  Lihue-Kauai,HI
+[LIT]  35.22   92.38  Little Rock,AR
+[LIZ]  46.95   67.88  Loring AFB,ME
+[LMT]  42.15  121.73  Klamath Fall,OR
+[LND]  42.82  108.73  Lander,WY
+[LNI]  70.92  153.23  Lonely (dew),AK
+[LNK]  40.85   96.75  Lincoln Muni,NE
+[LNN]  41.63   81.40  Willoughby,OH
+[LNR]  43.20   90.18  Lone Rock,WI
+[LNS]  40.13   76.30  Lancaster,PA
+[LNY]  20.80  156.95  Lanai-Lanai,HI
+[LOL]  40.10  118.92  Lovelock,NV
+[LOU]  38.23   85.67  Louisville,KY
+[LOZ]  37.08   84.07  London,KY
+[LRD]  27.53   99.47  Laredo Intl,TX
+[LRF]  34.92   92.15  Little Rock,AR
+[LRU]  32.30  106.77  Las Cruces,NM
+[LSE]  43.87   91.25  La Crosse,WI
+[LSF]  32.33   85.00  Fort Benning,GA
+[LSV]  36.23  115.03  Nellis AFB,NV
+[LTS]  34.67   99.27  Altus AFB,OK
+[LUF]  33.53  112.38  Luke,AZ
+[LUK]  39.10   84.43  Cincinnati,OH
+[LUL]  31.67   89.17  Laurel,MS
+[LVK]  37.70  121.82  Livermore,CA
+[LVM]  45.70  110.43  Livingston,MT
+[LVS]  35.65  105.15  Las Vegas,NM
+[LWB]  37.87   80.40  Lewisburg,WV
+[LWM]  42.72   71.12  Lawrence,MA
+[LWS]  46.38  117.02  Lewiston,ID
+[LWT]  47.05  109.45  Lewiston,MT
+[LXV]  39.25  106.30  Leadville,CO
+[LYH]  37.33   79.20  Lynchburg,VA
+[LZK]  34.83   92.25  Little Rock,AR
+[MAF]  31.95  102.18  Midland,TX
+[MAI]  30.84   85.18  Marianna,FL
+[MBL]  44.27   86.25  Manistee,MI
+[MBS]  43.53   84.08  Saginaw,MI
+[MCB]  31.18   90.47  Mccomb,MS
+[MCC]  38.67  121.40  Mcclellan,CA
+[MCE]  37.28  120.52  Merced,CA
+[MCF]  27.85   82.52  Macdill AFB,FL
+[MCG]  62.97  155.62  Mcgrath,AK
+[MCI]  39.32   94.72  Kansas City,MO
+[MCK]  40.22  100.58  Mccook,NE
+[MCN]  32.70   83.65  Macon/Lewis,GA
+[MCO]  28.43   81.32  Orlando,FL
+[MCW]  43.15   93.33  Mason City,IA
+[MDH]  37.78   89.25  Carbondale,IL
+[MDO]  59.43  146.33  Middleton Is,AK
+[MDT]  40.20   76.77  Middletown,PA
+[MDW]  41.78   87.75  Chicago/Midway,IL
+[MEH]  45.50  118.40  Meacham,OR
+[MEI]  32.33   88.75  Meridian/Key,MS
+[MEM]  35.05   90.00  Memphis Intl,TN
+[MER]  37.38  120.57  Castle AFB,CA
+[MFD]  40.82   82.52  Mansfield,OH
+[MFE]  26.18   98.23  Mcallen,TX
+[MFR]  42.37  122.87  Medford,OR
+[MGE]  33.92   84.52  Dobbins AFB,GA
+[MGF]  34.53   84.87  Dobbins AFB,GA
+[MGL]  35.15   85.51  Monteagle,TN
+[MGM]  32.30   86.40  Montgomery,AL
+[MGW]  39.65   79.92  Morgantown,WV
+[MHE]  43.77   98.03  Mitchell,SD
+[MHK]  39.15   96.67  Manhatten,KS
+[MHM]  63.90  152.27  Minchumina,AK
+[MHN]  42.05  101.05  Mullen,NE
+[MHR]  38.57  121.30  Mather AFB,CA
+[MHS]  41.32  122.32  Mount Shasta,CA
+[MHT]  42.93   71.43  Manchester,NH
+[MHV]  35.05  118.15  Mojave,CA
+[MIA]  25.82   80.28  Miami Intl,FL
+[MIB]  48.42  101.35  Minot AFB,ND
+[MIC]  45.07   93.38  Minneapolis,MN
+[MIE]  40.23   85.38  Muncie,IN
+[MIV]  39.37   75.07  Millville,NJ
+[MKC]  39.12   94.60  Kansas City,MO
+[MKE]  42.95   87.90  Milwaukee,WI
+[MKG]  43.17   86.25  Muskegon,MI
+[MKK]  21.15  157.10  Molokai,HI
+[MKL]  35.60   88.92  Jackson,TN
+[MKO]  35.66   95.36  Muskogee,MO
+[MKT]  44.22   93.92  Mankato,MN
+[MLB]  28.10   80.63  Melbourne,FL
+[MLC]  34.88   95.78  Mcalester,OK
+[MLD]  42.17  112.32  Malad City,ID
+[MLF]  38.72  113.03  Milford,UT
+[MLI]  41.45   90.52  Moline/Quad,IL
+[MLS]  46.43  105.87  Miles City,MT
+[MLU]  32.52   92.05  Monroe,LA
+[MLY]  65.00  150.65  Manley Ht Sp,AK
+[MMH]  37.63  118.92  Mammoth Lks,CA
+[MML]  44.45   95.82  Marshall Arpt,MN
+[MMO]  41.37   88.68  Marseilles,IL
+[MMT]  33.92   80.80  Mcentire,SC
+[MMU]  40.80   74.42  Morristown,NJ
+[MNM]  45.12   87.63  Menominee,MI
+[MNW]  42.88   72.88  Wilmington,VT
+[MOB]  30.68   88.25  Mobile,AL
+[MOD]  37.63  120.95  Modesto,CA
+[MOT]  48.27  101.28  Minot Intl,ND
+[MPV]  44.20   72.57  Montpelier,VT
+[MQB]  40.52   90.66  Macomb,IL
+[MQI]  35.92   75.68  Manteo Arpt,NC
+[MQM]  44.57  112.32  Monida,MT
+[MQT]  46.88   87.95  Marquette,MI
+[MQY]  36.00   86.50  Smyrna,TN
+[MRB]  39.40   77.98  Martinsburg,WV
+[MRF]  30.37  104.02  Marfa,TX
+[MRI]  61.22  149.85  Anchorage,AK
+[MRY]  36.58  121.85  Monterey,CA
+[MSL]  34.75   87.62  Muscle Shoal,AL
+[MSN]  43.13   89.33  Madison,WI
+[MSO]  46.92  114.08  Missoula,MT
+[MSP]  44.88   93.22  Minneapolis,MN
+[MSS]  44.93   74.85  Massena,NY
+[MSV]  41.70   74.80  Monticello,NY
+[MSY]  29.98   90.25  New Orleans,LA
+[MTC]  42.62   82.83  Selfridge,MI
+[MTJ]  38.50  107.88  Montrose,CO
+[MTN]  39.33   76.42  Baltimore,MD
+[MTO]  39.48   88.28  Mattoon,IL
+[MTW]  44.13   87.67  Manitowac,WI
+[MUE]  20.00  156.12  Waimea-Koha,HI
+[MUI]  40.43   76.57  Muir,PA
+[MUO]  43.05  115.87  Mountn Home,ID
+[MVN]  38.32   88.86  Mount Vernon,IL
+[MVY]  41.40   70.62  Marthas Vine,MA
+[MWA]  37.75   89.00  Marion,IL
+[MWC]  43.12   88.05  Milwaukee,WI
+[MWH]  47.20  119.32  Moses Lake,WA
+[MWL]  32.78   98.07  Mineral Wlls,TX
+[MWN]  44.27   71.30  Mt Washingtn,NH
+[MWS]  34.23  118.07  Mount Wilson,CA
+[MXF]  32.38   86.37  Maxwell AFB,AL
+[MXY]  61.43  142.92  Mccarthy,AK
+[MYF]  32.82  117.13  San Diego,CA
+[MYL]  44.88  116.10  Mccall,ID
+[MYR]  33.68   78.93  Myrtle Beach,SC
+[MYU]  60.37  166.27  Mekoryuk,AK
+[MYV]  39.10  121.57  Marysville,CA
+[N11]  41.27   72.90  New Haven,CT
+[N28]  40.75   74.37  Ambrose,NY
+[N5G]  34.03  120.40  San Miguel,CA
+[N66]  42.87   75.12  Oneonta,NY
+[N78]  40.28   74.28  Barnegat Ls,NJ
+[N80]  38.55   75.13  Ocean City,MD
+[NBC]  32.48   80.72  Beaufort Mca,SC
+[NBE]  32.73   96.97  Dallas NAS,TX
+[NBG]  29.83   90.02  New Orleans,LA
+[NBU]  42.08   87.82  Glenview NAS,IL
+[NCA]  34.70   77.43  New River,NC
+[NCO]  41.36   71.25  Quonset Pt NAS,RI
+[NEL]  40.03   74.35  Lakehurst,NJ
+[NEW]  30.03   90.03  New Orleans,LA
+[NFG]  33.30  117.35  Camp Pendlet,CA
+[NFL]  39.42  118.70  Fallon NAS,NV
+[NGP]  27.70   97.28  Corpus Chrst,TX
+[NGU]  36.93   76.28  Norfolk NAS,VA
+[NGZ]  37.78  122.32  Alameda NAS,CA
+[NHK]  38.28   76.40  Patuxent,MD
+[NHZ]  43.88   69.93  Brunswick,ME
+[NID]  35.68  117.68  China Lake,CA
+[NIP]  30.23   81.68  Jacksonville,FL
+[NIR]  28.37   97.67  Chase NAS,TX
+[NJK]  32.82  115.68  El Centro,CA
+[NKT]  34.90   76.88  Cherry Point,NC
+[NKX]  32.87  117.15  Miramar NAS,CA
+[NLC]  36.33  119.95  Lemoore NAS,CA
+[NMM]  32.55   88.57  Meridian NAS,MS
+[NOW]  48.22  123.67  Port Angeles,WA
+[NPA]  30.35   87.32  Pensacola,FL
+[NQA]  35.35   89.87  Memphis NAS,TN
+[NQI]  27.50   97.82  Kingsville,TX
+[NQX]  24.57   81.68  Key West NAS,FL
+[NRB]  30.40   81.42  Mayport NAS,FL
+[NRS]  32.57  117.12  Imperial Bch,CA
+[NSE]  30.72   87.02  Whiting Fld,FL
+[NSI]  33.25  119.45  San Nic Isl,CA
+[NTD]  34.12  119.12  Point Mugu,CA
+[NTK]  33.70  117.83  Tustin Mcas,CA
+[NTU]  36.82   76.03  Oceana NAS,VA
+[NUC]  33.02  118.58  San Clemente,CA
+[NUQ]  37.42  122.05  Moffet NAS,CA
+[NUW]  48.35  122.65  Whidbey Is,WA
+[NXP]  34.28  116.15  Twenty9 Palm,CA
+[NXX]  40.20   75.15  Willow Grove,PA
+[NYC]  40.77   73.98  New York,NY
+[NYG]  38.50   77.30  Quantico Mca,VA
+[NYL]  32.65  114.62  Yuma Mcas,AZ
+[NZC]  30.22   81.88  Cecil,FL
+[NZJ]  33.67  117.73  El Toro,CA
+[NZW]  42.15   70.93  S Weymouth,MA
+[NZY]  32.70  117.20  North Is,CA
+[O87]  40.03  124.07  Shelter Cove,CA
+[OAJ]  34.82   77.62  Jacksonville,NC
+[OAK]  37.73  122.22  Oakland,CA
+[OAR]  36.68  121.77  Fort Ord,CA
+[ODX]  41.62   98.95  Ord/Sharp,NE
+[OFF]  41.12   95.92  Offutt AFB,NE
+[OFK]  41.98   97.43  Norfolk,NE
+[OGD]  41.18  112.02  Ogden,UT
+[OGG]  20.90  156.43  Kahului Maui,HI
+[OGS]  44.68   75.40  Ogdensburg,NY
+[OJC]  38.85   94.90  Olathe,KS
+[OKC]  35.40   97.60  Oklahoma Cty,OK
+[OLF]  48.10  105.58  Wolf Point,MT
+[OLI]  70.50  149.88  Oliktok Dew,AK
+[OLM]  46.97  122.90  Olympia,WA
+[OLU]  41.45   97.35  Columbus,NE
+[OMA]  41.30   95.90  Omaha/Eppley,NE
+[OME]  64.50  165.43  Nome,AK
+[ONL]  42.47   98.68  O'neill,NE
+[ONM]  34.07  106.90  Socorro,NM
+[ONO]  44.02  117.02  Ontario,OR
+[ONP]  44.63  124.05  Newport,OR
+[ONT]  34.05  117.62  Ontario Intl,CA
+[OPF]  25.92   80.28  Miami/Opa,FL
+[OQU]  41.60   71.42  Nth Kingston,RI
+[ORD]  41.98   87.90  Chicago/O'hare,IL
+[ORF]  36.90   76.20  Norfolk Rgnl,VA
+[ORH]  42.27   71.87  Worcester,MA
+[ORL]  28.55   81.33  Orlando,FL
+[ORT]  62.97  141.93  Northway,AK
+[OSC]  44.45   83.40  Wurtsmith,MI
+[OSH]  44.00   88.57  Oshkosh,WI
+[OSU]  40.08   83.07  Columbus Osu,OH
+[OTG]  43.65   95.58  Worthington,MN
+[OTH]  43.42  124.25  North Bend,OR
+[OTM]  41.10   92.45  Ottumwa,IA
+[OTZ]  66.87  162.63  Kotzebue,AK
+[OUN]  35.23   97.47  Norman,OK
+[OVN]  41.37   96.02  North Omaha,NE
+[OWB]  37.75   87.17  Owensboro,KY
+[OWD]  42.18   71.18  Norwood,MA
+[OWY]  42.58  116.17  Owyhee,NV
+[OXR]  34.20  119.20  Oxnard,CA
+[OZR]  31.28   85.72  Fort Rucker,AL
+[P02]  36.77   90.47  Poplar Bluff,MO
+[P05]  44.05  101.60  Philip,SD
+[P07]  30.17  102.42  Sanderson,TX
+[P11]  48.10   98.87  Devil's Lake,ND
+[P24]  47.75  101.83  Roseglen,ND
+[P28]  37.30   98.58  Medicine Ldg,KS
+[P35]  40.25   93.72  Spickard,MO
+[P38]  37.62  114.52  Caliente,NV
+[P39]  46.60   94.32  Pequot Lake,MN
+[P58]  43.83   82.53  Harbor Beach,MI
+[P59]  47.47   87.85  Copper Harb,MI
+[P60]  44.55  110.42  Yellowstone,WY
+[P61]  47.58   90.83  Tofte,MN
+[P67]  46.10   97.15  Lidgerwood,ND
+[P68]  39.50  115.97  Eureka,NV
+[P69]  45.82  115.43  Elk City,ID
+[P75]  45.92   85.92  Seul Choix,MI
+[PAA]  39.58  124.22  Pt Arena,CA
+[PAE]  47.92  122.28  Everet/Paine,WA
+[PAH]  37.07   88.77  Paducah,KY
+[PAM]  30.07   85.58  Tyndall AFB,FL
+[PAO]  37.47  122.12  Palo Alto,CA
+[PAQ]  61.60  149.08  Palmer,AK
+[PBF]  34.17   91.93  Pine Bluff,AR
+[PBG]  44.65   73.47  Plattsburgh,NY
+[PBI]  26.68   80.12  W Palm Beach,FL
+[PDK]  33.88   84.30  Atlanta/Dklb,GA
+[PDT]  45.68  118.85  Pendleton,OR
+[PDX]  45.60  122.60  Portland,OR
+[PFN]  30.20   85.68  Panama City,FL
+[PGA]  36.93  111.45  Page,AZ
+[PGO]  34.68   94.62  Page,OK
+[PGU]  34.95  121.12  Pt Arguello,CA
+[PHF]  37.13   76.50  Newport News,VA
+[PHL]  39.88   75.25  Philadelphia,PA
+[PHP]  44.05  101.60  Philip,SD
+[PHX]  33.43  112.02  Phoenix,AZ
+[PIA]  40.67   89.68  Peoria,IL
+[PIB]  31.47   89.33  Hattiesburg,MS
+[PIE]  27.92   82.68  Saint Peters,FL
+[PIH]  42.92  112.60  Pocatello,ID
+[PIR]  44.38  100.28  Pierre,SD
+[PIT]  40.50   80.22  Pittsburgh,PA
+[PIZ]  69.82  162.92  Point Lay,AK
+[PKB]  39.35   81.43  Parkersburg,WV
+[PKD]  46.90   95.07  Park Rapids,MN
+[PLN]  45.57   84.80  Pellston,MI
+[PMD]  35.05  118.13  Palmdale,CA
+[PNC]  36.73   97.10  Ponca City,OK
+[PNE]  40.08   75.02  Nth Philadel,PA
+[PNS]  30.47   87.20  Pensacola,FL
+[POB]  35.17   79.02  Pope AFB,NC
+[POC]  34.10  117.78  La Verne,CA
+[POE]  31.05   93.20  Fort Polk,LA
+[POU]  41.63   73.88  Poughkeepsie,NY
+[PPC]  66.82  150.65  Prospect Crk,AK
+[PPD]  36.12  121.47  Pt Piedras,CA
+[PQI]  46.68   68.05  Presque Isle,ME
+[PRB]  35.67  120.63  Paso Robles,CA
+[PRC]  34.65  112.43  Prescott,AZ
+[PRX]  33.63   95.45  Paris/Cox,TX
+[PSB]  41.47   78.13  Philipsburg,PA
+[PSC]  46.27  119.12  Pasco,WA
+[PSF]  42.26   73.18  Pittsfield,MA
+[PSG]  56.82  132.97  Petersburg,AK
+[PSM]  43.08   70.82  Pease AFB,NH
+[PSP]  33.83  116.50  Palm Springs,CA
+[PSX]  28.72   96.25  Palacios,TX
+[PTH]  56.95  158.62  Port Heiden,AK
+[PTI]  62.17  153.25  Puntilla,AK
+[PTK]  42.67   83.42  Pontiac,MI
+[PTN]  29.70   91.20  Morgan City,LA
+[PUB]  38.28  104.52  Pueblo,CO
+[PUC]  39.62  110.75  Price/Carbon,UT
+[PUO]  70.25  148.33  Prudhoe Bay,AK
+[PUW]  46.75  117.12  Pullman,WA
+[PVD]  41.73   71.43  Providence,RI
+[PVU]  40.22  111.72  Provo,UT
+[PVW]  34.17  101.71  Plainview,TX
+[PWA]  35.53   97.65  Oklahoma Cty,OK
+[PWM]  43.65   70.32  Portland,ME
+[PWT]  47.48  122.77  Bremerton,WA
+[RAL]  33.95  117.45  Riverside,CA
+[RAP]  44.05  103.07  Rapid City,SD
+[RBD]  32.68   96.87  Dallas/Redbr,TX
+[RBG]  43.23  123.37  Roseburg,OR
+[RBL]  40.15  122.25  Red Bluff,CA
+[RCA]  44.15  103.10  Ellsworth Af,SD
+[RDD]  40.50  122.30  Redding,CA
+[RDG]  40.38   75.97  Reading,PA
+[RDM]  44.27  121.15  Redmond,OR
+[RDR]  47.97   97.40  Grand Forks,ND
+[RDU]  35.87   78.78  Raleigh-Durh,NC
+[REE]  33.60  102.05  Reese AFB,TX
+[REJ]  45.16  103.32  Redig,SD
+[RFD]  42.20   89.10  Rockford,IL
+[RHI]  45.63   89.45  Rhinelander,WI
+[RHV]  37.33  121.82  San Jose/Rei,CA
+[RIC]  37.50   77.33  Richmond,VA
+[RIE]  45.48   91.72  Rice Lake,WI
+[RIV]  33.88  117.27  March AFB,CA
+[RIW]  43.05  108.45  Riverton,WY
+[RKD]  44.07   69.12  Rockland,ME
+[RKP]  28.08   97.03  Rockport,TX
+[RKS]  41.60  109.07  Rock Springs,WY
+[RME]  43.23   75.40  Griffiss AFB,NY
+[RMG]  34.35   85.17  Rome/Russell,GA
+[RND]  29.53   98.28  Randolph AFB,TX
+[RNO]  39.50  119.78  Reno,NV
+[RNT]  47.50  122.22  Renton,WA
+[ROA]  37.32   79.97  Roanoke Muni,VA
+[ROC]  43.12   77.67  Rochester,NY
+[ROC]  43.12   77.67  Rochester,NY
+[ROW]  33.30  104.53  Roswell,NM
+[RSL]  38.87   98.82  Russell,KS
+[RST]  43.92   92.50  Rochester,MN
+[RSW]  26.65   81.87  Ft Myers,FL
+[RTN]  36.74  104.50  Raton,NM
+[RUM]  44.88   70.88  Rumford,ME
+[RUT]  43.53   73.95  Rutland,VT
+[RWF]  44.55   95.08  Redwood Falls,MN
+[RWI]  35.85   77.88  Rocky Mt,NC
+[RWL]  41.80  107.20  Rawlins,WY
+[S06]  47.47  115.80  Mullan,ID
+[S11]  41.48  120.53  Alturas,CA
+[S29]  38.53  106.05  Salida,CO
+[S80]  45.92  116.13  Grangeville,ID
+[SAC]  38.52  121.50  Sacramento,CA
+[SAF]  35.62  106.08  Santa Fe,NM
+[SAN]  32.73  117.17  San Diego,CA
+[SAT]  29.53   98.47  San Antonio,TX
+[SAV]  32.13   81.20  Savannah Mun,GA
+[SAW]  46.35   87.40  Sawyer AFB,MI
+[SBA]  34.43  119.83  Santa Barb,CA
+[SBD]  34.10  117.23  Norton AFB,CA
+[SBN]  41.70   86.32  South Bend,IN
+[SBP]  35.23  120.65  San Luis Obi,CA
+[SBS]  40.48  106.82  Steamboat Sp,CO
+[SBY]  38.33   75.50  Salisbury,MD
+[SCC]  70.20  148.47  Deadhorse,AK
+[SCH]  42.85   73.93  Schenectady,NY
+[SCK]  37.90  121.25  Stockton,CA
+[SDB]  34.75  118.73  Sandburg,CA
+[SDF]  38.18   85.73  Louisville,KY
+[SDL]  33.62  111.92  Scottsdale,AZ
+[SDM]  32.57  116.98  San Diego,CA
+[SDM]  32.57  116.98  San Diego,CA
+[SDP]  55.33  160.50  Sand Point,AK
+[SDY]  47.72  104.18  Sidney,MT
+[SEA]  47.45  122.30  Seattle,WA
+[SEE]  32.82  116.97  San Diego,CA
+[SEM]  32.34   86.99  Selma,AL
+[SEP]  32.22   98.18  Stephenville,TX
+[SFB]  28.78   81.25  Sanford,FL
+[SFF]  47.67  117.33  Spokane,WA
+[SFO]  37.62  122.38  San Francisco,CA
+[SGF]  37.23   93.38  Springfield,MO
+[SGU]  37.08  113.60  Saint George,UT
+[SGY]  59.75  135.53  Skagway,AK
+[SHD]  38.27   78.85  Staunton,VA
+[SHH]  66.27  166.03  Shishmaref,AK
+[SHN]  47.25  123.15  Shelton,WA
+[SHR]  44.77  106.97  Sheridan,WY
+[SHV]  32.47   93.82  Shreveport,LA
+[SIL]  30.35   89.82  Slidel,LA
+[SIT]  57.07  135.35  Sitka,AK
+[SIY]  41.78  122.47  Siskiyou,CA
+[SJC]  37.37  121.92  San Jose,CA
+[SJT]  31.37  100.50  San Angelo,TX
+[SKA]  47.62  117.65  Fairchild,WA
+[SKF]  29.38   98.58  Kelly AFB,TX
+[SKJ]  56.88  154.20  Sitkinak,AK
+[SKW]  61.97  151.20  Skwentna,AK
+[SLC]  40.78  111.97  Salt Lake Ct,UT
+[SLE]  44.92  123.00  Salem,OR
+[SLI]  33.78  118.05  Los Alamitos,CA
+[SLK]  44.38   74.20  Saranac Lk,NY
+[SLN]  38.80   97.65  Salina,KS
+[SLO]  38.63   88.96  Salem,IL
+[SMF]  38.70  121.60  Sacramento,CA
+[SMN]  45.17  114.47  Salmon,ID
+[SMO]  34.02  118.45  Santa Monica,CA
+[SMP]  47.28  121.33  Stampede Pas,WA
+[SMX]  34.90  120.45  Santa Maria,CA
+[SNA]  33.67  117.88  Santa Ana,CA
+[SNP]  57.15  170.22  St Paul Is,AK
+[SNS]  36.67  121.60  Salinas,CA
+[SNY]  41.10  102.98  Sidney Muni,NE
+[SOP]  35.24   79.39  Southern Pin,NC
+[SOW]  34.27  110.00  Show Low,AZ
+[SPA]  34.92   81.96  Spartanburg,SC
+[SPI]  39.85   89.67  Springfield,IL
+[SPS]  33.98   98.50  Wichita Flls,TX
+[SQI]  41.74   89.67  Sterling,IL
+[SQL]  37.52  122.25  San Carlos,CA
+[SRQ]  27.40   82.55  Sarasota,FL
+[SSC]  33.97   80.47  Shaw AFB,SC
+[SSF]  29.33   98.47  San Antonio,TX
+[SSI]  31.15   81.38  Brunswick,GA
+[SSM]  46.47   84.37  Sault Ste M,MI
+[SSU]  37.46   80.20  White Sulph,WV
+[STC]  45.55   94.07  St Cloud,MN
+[STJ]  40.28   95.53  St Joseph,MO
+[STL]  38.75   90.37  St Louis,MO
+[STP]  44.93   93.05  Saint Paul,MN
+[STS]  38.52  122.82  Santa Rosa,CA
+[SUN]  43.50  114.30  Sun Valley,ID
+[SUS]  38.65   90.63  StLouis/Spirit,MO
+[SUU]  38.27  121.93  Travis AFB,CA
+[SUX]  42.40   96.38  Sioux City,IA
+[SVC]  32.63  108.17  Silver City,NM
+[SVE]  40.63  120.95  Susanville,CA
+[SVN]  32.02   81.15  Hunter Aaf,GA
+[SWF]  41.50   74.10  Newburgh,NY
+[SWO]  36.16   97.09  Stillwater,OK
+[SXT]  42.62  123.37  Sexton,OR
+[SYA]  53.20  174.13  Shemy,AK
+[SYR]  43.12   76.12  Syracuse,NY
+[SZL]  38.73   93.55  Whiteman AFB,MO
+[T46]  28.03   95.87  South Brazos,TX
+[T62]  40.17  112.20  Tooele,UT
+[TAD]  37.25  104.33  Trinidad,CO
+[TAL]  65.17  152.10  Tanana,AK
+[TAZ]  39.53   89.33  Taylorville,IL
+[TBN]  37.75   92.13  Ft Leonard,MO
+[TBW]  27.97   82.60  Ruskin,FL
+[TCC]  35.18  103.60  Tucumcari,NM
+[TCL]  33.23   87.62  Tuscaloosa,AL
+[TCM]  47.15  122.48  Mcchord AFB,WA
+[TCS]  33.23  107.27  Truth Or Con,NM
+[TDO]  46.48  122.80  Toledo,WA
+[TEB]  40.85   74.05  Teterboro,NJ
+[TIK]  35.42   97.38  Tinker AFB,OK
+[TIW]  47.27  122.58  Tacoma,WA
+[TIX]  28.52   80.80  Titusville,FL
+[TKA]  62.30  150.10  Talkeetna,AK
+[TLH]  30.38   84.37  Tallahassee,FL
+[TMB]  25.65   80.43  Miami/Tamiami,FL
+[TOA]  33.80  118.33  Torrance,CA
+[TOI]  31.87   86.02  Troy,AL
+[TOL]  41.60   83.80  Toledo,OH
+[TOP]  39.07   95.62  Topeka,KS
+[TPA]  27.97   82.53  Tampa Intl,FL
+[TPH]  38.07  117.08  Tonopah,NV
+[TPL]  31.15   97.42  Temple,TX
+[TRI]  36.48   82.40  Bristol,TN
+[TRK]  39.32  120.13  Truckee-Tahoe,CA
+[TRM]  33.63  116.17  Thermal,CA
+[TTD]  45.55  122.40  Troutdale,OR
+[TTN]  40.28   74.82  Trenton,NJ
+[TUL]  36.20   95.90  Tulsa,OK
+[TUP]  34.27   88.77  Tupelo,MS
+[TUS]  32.12  110.93  Tucson,AZ
+[TVC]  44.73   85.58  Traverse Cty,MI
+[TVF]  48.07   96.18  Thief River,MN
+[TVL]  38.90  120.00  Lake Tahoe,CA
+[TWF]  42.48  114.48  Twin Falls,ID
+[TXK]  33.45   94.00  Texarkana,AR
+[TYR]  32.37   95.40  Tyler/Pounds,TX
+[TYS]  35.82   83.98  Knoxville,TN
+[U15]  44.52  114.22  Challis,ID
+[U16]  41.05  113.07  Eagle Range,UT
+[U17]  37.50  110.70  Bullfrog Mar,UT
+[U24]  39.33  112.58  Delta,UT
+[U28]  39.00  110.15  Green River,UT
+[U31]  39.50  117.08  Austin,NV
+[U67]  40.50  110.63  Roosevelt,UT
+[U78]  42.65  111.58  Soda Springs,ID
+[UCA]  43.15   75.38  Utica,NY
+[UCC]  37.58  116.08  Yucca Flat,NV
+[UIL]  47.95  124.55  Quillayute,WA
+[UIN]  39.93   91.20  Quincy,IL
+[UKI]  39.13  123.20  Ukiah,CA
+[UMN]  37.33   94.35  Monett,MO
+[UMT]  69.37  152.13  Umiat,AK
+[UNI]  39.21   82.23  Athens/Albany,OH
+[UNK]  63.88  160.80  Unalakleet,AK
+[UNO]  36.88   91.90  West Plains,MO
+[UNV]  40.85   77.83  State Colleg,PA
+[UOX]  34.39   89.54  Oxford,MS
+[VAD]  30.97   83.20  Moody AFB,GA
+[VBG]  35.20  120.95  Vandenberg,CA
+[VBG]  35.20  120.95  Vandenberg,CA
+[VCT]  28.85   96.92  Victoria,TX
+[VCV]  34.58  117.38  George AFB,CA
+[VDZ]  61.13  146.25  Valdez 2,AK
+[VEL]  40.45  109.52  Vernal,UT
+[VIH]  38.13   91.77  Vichy/Rolla,MO
+[VIS]  36.32  119.40  Visalia,CA
+[VLA]  38.99   89.17  Vandalia,IL
+[VLD]  30.78   83.28  Valdosta,GA
+[VNY]  34.22  118.48  Van Nuys,CA
+[VOK]  43.93   90.27  Volk Fld,WI
+[VPS]  30.48   86.53  Eglin AFB,FL
+[VQN]  36.95   78.98  Volens,VA
+[VRB]  27.65   80.42  Vero Beach,FL
+[VTN]  42.87  100.55  Valentine,NE
+[VWS]  61.13  146.35  Valdez,AK
+[W39]  37.50   76.20  Chesapeake,VA
+[WAA]  66.03  168.08  Wales,AK
+[WAL]  37.85   75.48  Wallops Sta,VA
+[WCR]  67.50  148.48  Chandalar Lk,AK
+[WDG]  36.38   97.80  Enid,OK
+[WEY]  44.65  111.10  W Yellowston,MT
+[WJF]  34.73  118.22  Lancaster,CA
+[WMC]  40.90  117.80  Winnemucca,NV
+[WRB]  32.63   83.60  Robins AFB,GA
+[WRG]  56.48  132.37  Wrangell,AK
+[WRI]  40.02   74.60  Mcguire AFB,NJ
+[WRL]  43.97  107.97  Worland,WY
+[WYS]  44.68  111.12  W Yellowston,MT
+[X68]  28.62   80.68  Nasa Shuttle,FL
+[X91]  27.60   82.77  Egmont Key,FL
+[XMR]  28.47   80.55  Cape Canaveral,FL
+[Y22]  45.93  102.17  Lemmon,SD
+[Y26]  45.53  100.43  Mobridge,SD
+[Y69]  45.13   94.52  Litchfield,MN
+[YAK]  59.52  139.67  Yakutat,AK
+[YIP]  42.23   83.53  Ypsilanti,MI
+[YKM]  46.57  120.53  Yakima,WA
+[YKN]  42.92   97.38  Yankton,SD
+[YNG]  41.27   80.67  Youngstown,OH
+[YUM]  33.10  115.00  Yuma,AZ
+[Z00]  62.88  149.83  Chulitna,AK
+[Z22]  61.75  150.05  Willow Arpt,AK
+[Z26]  59.23  135.43  Haines Hrbor,AK
+[Z30]  60.20  154.30  Pt Alsworth,AK
+[Z49]  58.10  135.45  Hoonah Seapl,AK
+[Z60]  67.10  157.85  Ambler,AK
+[Z68]  63.38  148.95  Cantwell,AK
+[Z76]  56.25  134.65  Port Alexndr,AK
+[ZZV]  39.95   81.90  Zanesville,OH

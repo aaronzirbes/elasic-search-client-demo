@@ -1,0 +1,30 @@
+{
+    "sort" : [
+        {
+        "_geo_distance" : {
+            "location" : {
+                "lat" : 44.9833,
+                "lon" : 93.2667
+            }, 
+            "order" : "asc",
+            "unit" : "mi"
+        }
+    }
+    ],
+    "query": {
+        "filtered" : {
+            "query" : {
+                "match_all" : {}
+            },
+            "filter" : {
+                "geo_distance" : {
+                    "distance" : "900mi",
+                    "location" : {
+                        "lat" : 44.9833,
+                        "lon" : 93.2667
+                    }
+                }
+            }
+        }
+    }
+}
