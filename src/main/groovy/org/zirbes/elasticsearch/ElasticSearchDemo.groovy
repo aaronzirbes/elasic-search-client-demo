@@ -1,13 +1,12 @@
 package org.zirbes.elasticsearch
 
-class DemoClient {
+class ElasticSearchDemo {
 
     static void main(String[] argv){
 
         println "Init."
 
-        SearchClient searchClient = new SearchClient()
-        searchClient.runTheThings()
+        new DemoRunner().run()
 
         println "Done."
 

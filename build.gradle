@@ -2,7 +2,7 @@ apply plugin: 'groovy'
 apply plugin: 'application'
 apply plugin: 'idea'
 
-mainClassName = 'org.zirbes.elasticsearch.DemoClient'
+mainClassName = 'org.zirbes.elasticsearch.ElasticSearchDemo'
 
 repositories {
     mavenCentral()
